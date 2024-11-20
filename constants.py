@@ -13,7 +13,7 @@ BG_COLOR = (28, 170, 156) # RGB Format Colors
 LINE_COLOR = (23, 145, 135)
 
 # '0' Board Character Parameters:
-CIRC_COLOR = (239, 231, 200)
+CIRC_COLOR = (238, 231, 200)
 RADIUS = SQSIZE // 4
 CIRC_WIDTH = 34
 
