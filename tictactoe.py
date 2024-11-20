@@ -299,6 +299,6 @@ def main():
                     print('O (Player 2) WINS!')
                 game.running = False
         
-        pygame.display.update()
+        pygame.display.update() #updation of display
 
 main()
