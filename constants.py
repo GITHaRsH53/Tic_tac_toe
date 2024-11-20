@@ -15,7 +15,7 @@ LINE_COLOR = (23, 145, 135)
 # '0' Board Character Parameters:
 CIRC_COLOR = (239, 231, 200)
 RADIUS = SQSIZE // 4
-CIRC_WIDTH = 35
+CIRC_WIDTH = 34
 
 # 'X' Board Character Parameters:
 X_COLOR = (67, 67, 67)
